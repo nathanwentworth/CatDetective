@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e431de7578b4443f48c5e15cd8268fa7
+timeCreated: 1495055773
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: DayPosterBlack
+  fontNames:
+  - DayPosterBlack
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
